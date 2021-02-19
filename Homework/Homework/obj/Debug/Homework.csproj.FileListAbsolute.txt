@@ -1,0 +1,6 @@
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\Homework\Homework\bin\Debug\Homework.exe.config
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\Homework\Homework\bin\Debug\Homework.exe
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\Homework\Homework\bin\Debug\Homework.pdb
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\Homework\Homework\obj\Debug\Homework.csprojAssemblyReference.cache
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\Homework\Homework\obj\Debug\Homework.exe
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\Homework\Homework\obj\Debug\Homework.pdb

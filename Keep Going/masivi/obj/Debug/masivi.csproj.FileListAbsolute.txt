@@ -1,0 +1,6 @@
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\Keep Going\masivi\bin\Debug\masivi.exe.config
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\Keep Going\masivi\bin\Debug\masivi.exe
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\Keep Going\masivi\bin\Debug\masivi.pdb
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\Keep Going\masivi\obj\Debug\masivi.csprojAssemblyReference.cache
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\Keep Going\masivi\obj\Debug\masivi.exe
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\Keep Going\masivi\obj\Debug\masivi.pdb

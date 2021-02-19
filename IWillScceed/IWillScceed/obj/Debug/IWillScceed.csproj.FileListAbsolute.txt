@@ -1,0 +1,6 @@
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\IWillScceed\IWillScceed\bin\Debug\IWillScceed.exe.config
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\IWillScceed\IWillScceed\bin\Debug\IWillScceed.exe
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\IWillScceed\IWillScceed\bin\Debug\IWillScceed.pdb
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\IWillScceed\IWillScceed\obj\Debug\IWillScceed.csprojAssemblyReference.cache
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\IWillScceed\IWillScceed\obj\Debug\IWillScceed.exe
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\IWillScceed\IWillScceed\obj\Debug\IWillScceed.pdb

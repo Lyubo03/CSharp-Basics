@@ -1,0 +1,5 @@
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Passion\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Passion\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Passion\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Passion\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Passion\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,6 @@
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\KursoweHomeworkPartTwo\KursoweHomeworkPartTwo\bin\Debug\KursoweHomeworkPartTwo.exe.config
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\KursoweHomeworkPartTwo\KursoweHomeworkPartTwo\bin\Debug\KursoweHomeworkPartTwo.exe
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\KursoweHomeworkPartTwo\KursoweHomeworkPartTwo\bin\Debug\KursoweHomeworkPartTwo.pdb
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\KursoweHomeworkPartTwo\KursoweHomeworkPartTwo\obj\Debug\KursoweHomeworkPartTwo.csprojAssemblyReference.cache
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\KursoweHomeworkPartTwo\KursoweHomeworkPartTwo\obj\Debug\KursoweHomeworkPartTwo.exe
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\KursoweHomeworkPartTwo\KursoweHomeworkPartTwo\obj\Debug\KursoweHomeworkPartTwo.pdb

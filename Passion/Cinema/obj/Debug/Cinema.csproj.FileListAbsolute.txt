@@ -1,0 +1,5 @@
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Passion\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Passion\Cinema\bin\Debug\Cinema.exe
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Passion\Cinema\bin\Debug\Cinema.pdb
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Passion\Cinema\obj\Debug\Cinema.exe
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Passion\Cinema\obj\Debug\Cinema.pdb

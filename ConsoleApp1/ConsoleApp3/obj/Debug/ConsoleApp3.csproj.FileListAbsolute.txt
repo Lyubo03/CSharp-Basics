@@ -1,0 +1,5 @@
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\ConsoleApp1\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\ConsoleApp1\ConsoleApp3\obj\Debug\ConsoleApp3.pdb

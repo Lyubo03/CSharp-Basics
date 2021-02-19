@@ -1,0 +1,6 @@
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\House\House\bin\Debug\House.exe.config
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\House\House\bin\Debug\House.exe
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\House\House\bin\Debug\House.pdb
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\House\House\obj\Debug\House.csprojAssemblyReference.cache
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\House\House\obj\Debug\House.exe
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\House\House\obj\Debug\House.pdb

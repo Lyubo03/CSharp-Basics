@@ -1,0 +1,6 @@
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\StreamReaderWork\Riter\bin\Debug\Riter.exe.config
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\StreamReaderWork\Riter\bin\Debug\Riter.exe
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\StreamReaderWork\Riter\bin\Debug\Riter.pdb
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\StreamReaderWork\Riter\obj\Debug\Riter.csprojAssemblyReference.cache
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\StreamReaderWork\Riter\obj\Debug\Riter.exe
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\StreamReaderWork\Riter\obj\Debug\Riter.pdb

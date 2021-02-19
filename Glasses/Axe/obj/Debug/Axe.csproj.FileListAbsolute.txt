@@ -1,0 +1,6 @@
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Glasses\Axe\bin\Debug\Axe.exe.config
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Glasses\Axe\bin\Debug\Axe.exe
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Glasses\Axe\bin\Debug\Axe.pdb
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Glasses\Axe\obj\Debug\Axe.csprojAssemblyReference.cache
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Glasses\Axe\obj\Debug\Axe.exe
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Glasses\Axe\obj\Debug\Axe.pdb

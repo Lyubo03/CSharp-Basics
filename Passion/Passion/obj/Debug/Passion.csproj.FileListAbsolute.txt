@@ -1,0 +1,6 @@
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Passion\Passion\bin\Debug\Passion.exe.config
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Passion\Passion\bin\Debug\Passion.exe
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Passion\Passion\bin\Debug\Passion.pdb
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Passion\Passion\obj\Debug\Passion.csprojAssemblyReference.cache
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Passion\Passion\obj\Debug\Passion.exe
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Passion\Passion\obj\Debug\Passion.pdb

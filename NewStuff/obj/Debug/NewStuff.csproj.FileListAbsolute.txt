@@ -1,0 +1,6 @@
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\NewStuff\bin\Debug\NewStuff.exe.config
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\NewStuff\bin\Debug\NewStuff.exe
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\NewStuff\bin\Debug\NewStuff.pdb
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\NewStuff\obj\Debug\NewStuff.csprojAssemblyReference.cache
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\NewStuff\obj\Debug\NewStuff.exe
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\NewStuff\obj\Debug\NewStuff.pdb

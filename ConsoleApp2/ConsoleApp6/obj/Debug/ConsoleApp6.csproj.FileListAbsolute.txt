@@ -1,0 +1,6 @@
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\ConsoleApp2\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\ConsoleApp2\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\ConsoleApp2\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\ConsoleApp2\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\ConsoleApp2\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\ConsoleApp2\ConsoleApp6\obj\Debug\ConsoleApp6.pdb

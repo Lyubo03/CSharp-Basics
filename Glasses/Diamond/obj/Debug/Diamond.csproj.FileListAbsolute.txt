@@ -1,0 +1,6 @@
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Glasses\Diamond\bin\Debug\Diamond.exe.config
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Glasses\Diamond\bin\Debug\Diamond.exe
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Glasses\Diamond\bin\Debug\Diamond.pdb
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Glasses\Diamond\obj\Debug\Diamond.csprojAssemblyReference.cache
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Glasses\Diamond\obj\Debug\Diamond.exe
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Glasses\Diamond\obj\Debug\Diamond.pdb

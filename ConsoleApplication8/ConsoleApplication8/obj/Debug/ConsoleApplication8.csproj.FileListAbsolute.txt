@@ -1,0 +1,5 @@
+D:\c# projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+D:\c# projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+D:\c# projects\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+D:\c# projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+D:\c# projects\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb

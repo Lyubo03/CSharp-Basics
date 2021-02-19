@@ -1,0 +1,6 @@
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\Keep Going\Vryhche I Neshto Si\bin\Debug\Vryhche I Neshto Si.exe.config
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\Keep Going\Vryhche I Neshto Si\bin\Debug\Vryhche I Neshto Si.exe
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\Keep Going\Vryhche I Neshto Si\bin\Debug\Vryhche I Neshto Si.pdb
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\Keep Going\Vryhche I Neshto Si\obj\Debug\Vryhche I Neshto Si.csprojAssemblyReference.cache
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\Keep Going\Vryhche I Neshto Si\obj\Debug\Vryhche I Neshto Si.exe
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\Keep Going\Vryhche I Neshto Si\obj\Debug\Vryhche I Neshto Si.pdb

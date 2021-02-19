@@ -1,0 +1,6 @@
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\ConsoleApp1\EvenOrNot\bin\Debug\EvenOrNot.exe.config
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\ConsoleApp1\EvenOrNot\bin\Debug\EvenOrNot.exe
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\ConsoleApp1\EvenOrNot\bin\Debug\EvenOrNot.pdb
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\ConsoleApp1\EvenOrNot\obj\Debug\EvenOrNot.csprojAssemblyReference.cache
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\ConsoleApp1\EvenOrNot\obj\Debug\EvenOrNot.exe
+C:\Users\lubos\OneDrive\Работен плот\KursoweMG\ConsoleApp1\EvenOrNot\obj\Debug\EvenOrNot.pdb

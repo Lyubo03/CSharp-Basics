@@ -1,0 +1,6 @@
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Glasses\Glasses\bin\Debug\Glasses.exe.config
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Glasses\Glasses\bin\Debug\Glasses.exe
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Glasses\Glasses\bin\Debug\Glasses.pdb
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Glasses\Glasses\obj\Debug\Glasses.csprojAssemblyReference.cache
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Glasses\Glasses\obj\Debug\Glasses.exe
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Glasses\Glasses\obj\Debug\Glasses.pdb

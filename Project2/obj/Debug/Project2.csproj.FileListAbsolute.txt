@@ -1,0 +1,5 @@
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Project2\bin\Debug\Project2.exe.config
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Project2\bin\Debug\Project2.exe
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Project2\bin\Debug\Project2.pdb
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Project2\obj\Debug\Project2.exe
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Project2\obj\Debug\Project2.pdb

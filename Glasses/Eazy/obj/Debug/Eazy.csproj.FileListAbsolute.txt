@@ -1,0 +1,6 @@
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Glasses\Eazy\bin\Debug\Eazy.exe.config
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Glasses\Eazy\bin\Debug\Eazy.exe
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Glasses\Eazy\bin\Debug\Eazy.pdb
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Glasses\Eazy\obj\Debug\Eazy.exe
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Glasses\Eazy\obj\Debug\Eazy.pdb
+C:\Users\lubos\OneDrive\Работен плот\Kursowe\Glasses\Eazy\obj\Debug\Eazy.csprojAssemblyReference.cache

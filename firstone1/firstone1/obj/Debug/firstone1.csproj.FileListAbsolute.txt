@@ -1,0 +1,6 @@
+D:\c# projects\firstone1\firstone1\bin\Debug\firstone1.exe.config
+D:\c# projects\firstone1\firstone1\bin\Debug\firstone1.exe
+D:\c# projects\firstone1\firstone1\bin\Debug\firstone1.pdb
+D:\c# projects\firstone1\firstone1\obj\Debug\firstone1.csprojResolveAssemblyReference.cache
+D:\c# projects\firstone1\firstone1\obj\Debug\firstone1.exe
+D:\c# projects\firstone1\firstone1\obj\Debug\firstone1.pdb
